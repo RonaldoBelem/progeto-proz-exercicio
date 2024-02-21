@@ -1,0 +1,15 @@
+.p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.p li{
+    margin:50px 20px;
+    font-size: 30px;
+}
+img{
+    height: 280px;
+}
+main{
+    margin:0 300px;text-align: center;
+}
